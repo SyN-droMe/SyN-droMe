@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayush K Chacko. Currently pursuing BTech in Computer Science in VIT Chennai.
-- 👀 I’m interested in MILFS and GILFS
+- 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning Java and Javascript.
-- 💞️ I’m looking to collaborate on your mom.
+- 💞️ I’m looking to collaborate designs and video editing.
 - 📫 How to reach me: kuriakoseayush9113@gmail.com
 
 <!---
