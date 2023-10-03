@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ayush K Chacko. Currently pursuing BTech in Computer Science in VIT Chennai.
 - 👀 I’m interested in Data Science and Cyber Security
-- 💞️ I’m looking to collaborate designs and video editing.
 - 📫 How to reach me: kuriakoseayush9113@gmail.com
 
 <!---
