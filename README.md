@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kuriakoseayush9113@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1UIgBUdS3reclWnE444OQapguP7hOfdW1?usp=drive_link](https://drive.google.com/drive/folders/1UIgBUdS3reclWnE444OQapguP7hOfdW1?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/drive/folders/1UIgBUdS3reclWnE444OQapguP7hOfdW1?usp=drive_link](https://drive.google.com/file/d/1g9yTJXPhyui7CnZm-pl-twMkYBUkKwmJ/view?usp=drive_link)]([https://drive.google.com/drive/folders/1UIgBUdS3reclWnE444OQapguP7hOfdW1?usp=drive_link](https://drive.google.com/file/d/1g9yTJXPhyui7CnZm-pl-twMkYBUkKwmJ/view?usp=drive_link))
 
 - ⚡ Fun fact **I laugh at my own jokes**
 
