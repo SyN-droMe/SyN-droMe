@@ -1,13 +1,13 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQEPBddM1PfzRQ/profile-displaybackgroundimage-shrink_350_1400/0/1680623550045?e=1701907200&v=beta&t=7Oe95QGLgfv7qyAhXBuhqsUkHJuZrW0tHL1KomJH3Do)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ayush K Chacko</h1>
-<h3 align="center">I am a pre final year student at VIT Chennai. I am passionate about cyber security and a data science enthusiast.</h3>
+<h3 align="center">I am a pre final year student at VIT Chennai. I am a data science enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syn-drome&label=Profile%20views&color=0e75b6&style=flat" alt="syn-drome" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ayushkchacko" target="blank"><img src="https://img.shields.io/twitter/follow/ayushkchacko?logo=twitter&style=for-the-badge" alt="ayushkchacko" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Ethical Hacking**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Data Visualization and Deep Learning**
 
