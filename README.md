@@ -1,6 +1,6 @@
 <div align="center">
 
-### Ayush Kuriakose Chacko
+## Ayush Kuriakose Chacko
 
 </div>
 
