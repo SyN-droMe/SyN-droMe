@@ -6,7 +6,7 @@
 
 AI/ML Engineer: computer vision, predictive ML, and agentic workflows. B.Tech CS (VIT Chennai). Based in Bengaluru, open to relocation.
 
-Recently wrapped up an apprenticeship at Mercedes-Benz R&D India, where I worked on edge deployment, knowledge distillation, and gesture recognition on Jetson Orin. Open to AI/ML Engineer and Data Scientist roles. Currently contributing to open source.
+Recently wrapped up an apprenticeship at Mercedes-Benz R&D India, where I worked on computer vision, edge deployment, knowledge distillation, and gesture recognition on Jetson Orin. Open to AI/ML Engineer and Data Scientist roles. Currently contributing to open source.
 
 **Projects**
 
