@@ -18,3 +18,19 @@ Recently wrapped up an apprenticeship at Mercedes-Benz R&D India, where I worked
 **Stack**
 
 Python · PyTorch · TensorFlow · LangChain · scikit-learn · Docker · AWS · GCP
+
+**Open source**
+
+Merged:
+- **[caveman](https://github.com/JuliusBrussee/caveman/pull/1052)** — `caveman enable <agent>` wired configs to a proxy it never started, causing a silent mid-stream disconnect. Cherry-picked into the maintainer's merge PR [#1055](https://github.com/JuliusBrussee/caveman/pull/1055), authorship preserved.
+- **[pizza-bot](https://github.com/pizza-bot-app/pizza-bot/pull/93)** — a truncated top-level turn was reported as success. Added truncation middleware plus a UI notice.
+- **[experiential](https://github.com/experientiallabs/experiential/pull/1052)** — named `tool_choice` rejected the synthesized tool-search name.
+- **[jevals](https://github.com/openlayer-ai/jevals/pull/2)** — `pii_extra` weakened Presidio redaction and leaked unrelated entity types.
+- **[NPC-Forge](https://github.com/gioblu/NPC-Forge/pull/11)** — added two missing intents to the termy dataset, with tests.
+- **[Workshop-Finder](https://github.com/chungimungi/Workshop-Finder/pull/1)** — retry handling for flaky homepage fetches.
+
+Open:
+- **[smolagents](https://github.com/huggingface/smolagents/pull/2789)** — docs example called `list_models()` with a deprecated argument.
+- **[nano-vllm](https://github.com/GeeeekExplorer/nano-vllm/pull/277)** — bare `assert` on KV-cache exhaustion replaced with a clear error, after the issue's suggested fix didn't survive a trace.
+- **[jev-ultrafast](https://github.com/browser-use/jev-ultrafast/pull/109)** — hardcoded demo date changed to compute departure at runtime.
+- **[headroom](https://github.com/headroomlabs-ai/headroom/pull/3627)** — content router mistook confident HTML for mixed content. Repro before: 2.8% compression, after: 56.7%.
