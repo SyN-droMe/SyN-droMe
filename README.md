@@ -18,5 +18,3 @@ Recently wrapped up an apprenticeship at Mercedes-Benz R&D India, where I worked
 **Stack**
 
 Python · PyTorch · TensorFlow · LangChain · scikit-learn · Docker · AWS · GCP
-
-[LinkedIn](https://www.linkedin.com/in/ayushkchacko/)
